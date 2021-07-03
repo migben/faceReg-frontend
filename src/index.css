@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* Need to keep checking google fonts later */
+  font-family: "Courier New", Courier, monospace, sans-serif;
+  background-image: linear-gradient(
+    to right,
+    #20d1e0,
+    #00b9ef,
+    #009efd,
+    #007dff,
+    #1251eb
+  );
+}
+
+button {
+  cursor: pointer;
+}
