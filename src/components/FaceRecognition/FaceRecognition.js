@@ -10,7 +10,7 @@ const FaceRecognition = ({ imageUrl, box }) => {
           alt=""
           src={imageUrl}
           height="auto"
-          width="300px"
+          width="500px"
         />
         {/* styling the coordinates that detect the face with some css */}
         <div
